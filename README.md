@@ -1,6 +1,6 @@
 ## asciinema  
   
-Terminal session recorder  
+DESCRIBE  
   
 Automatic install/update:
 
